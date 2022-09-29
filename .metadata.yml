@@ -5,7 +5,7 @@ RKelly JavaScript parser gem.
     #
     # either one of the following product, platform, practice.
     # See https://adgear.atlassian.net/wiki/spaces/ENG/pages/19146211708/Product+-+Platform+-+Practice    #
-    stack: Ruby, Rails, Yacc
+    stack: Ruby
     practice: Engineering
     #
     # Both jira-project and jira-board can be extract from from your Jira project board URL.
