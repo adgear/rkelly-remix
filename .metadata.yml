@@ -1,7 +1,7 @@
 metadata:
   name: rkelly-remix
   description: RKelly Remix is a fork of the
-RKelly JavaScript parser.
+RKelly JavaScript parser gem.
     #
     # either one of the following product, platform, practice.
     # See https://adgear.atlassian.net/wiki/spaces/ENG/pages/19146211708/Product+-+Platform+-+Practice    #
@@ -22,8 +22,10 @@ RKelly JavaScript parser.
     # See  https://adgear.atlassian.net/wiki/spaces/INFOSEC/pages/2300969047/AdGear+-+Cybersecurity+Due+Diligence#Glossary    sensitive: true
   links:
     # Here is any link you feel is worth sharing. A confluence page for your component group is a good candidate.
-    page: https://adgear.atlassian.net/wiki/spaces/ENG/pages/19112264034/MTL+-+API-DSP
-    Rkelly parser: https://github.com/tenderlove/rkelly
+    - url: https://adgear.atlassian.net/l/cp/9kD8ZGRe
+      title: DSP-API Confluence page.
+    - url: https://github.com/tenderlove/rkelly
+      title: Rkelly JavaScript parser gem 
 
   spec:
   owner: cg-maintainers-dsp-api
