@@ -19,6 +19,11 @@ Gem::Specification.new do |s|
   s.rubygems_version = "2.4.8"
   s.summary = "RKelly Remix is a fork of the RKelly[https://github.com/tenderlove/rkelly] JavaScript parser."
 
+  s.add_development_dependency 'minitest'
+  s.add_development_dependency 'rake'
+  s.add_development_dependency 'rubocop', '~> 1.41.1'
+  s.add_development_dependency 'test-unit'
+
   if s.respond_to? :specification_version then
     s.specification_version = 4
 
