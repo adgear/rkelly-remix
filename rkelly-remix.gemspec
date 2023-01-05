@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'minitest'
   s.add_development_dependency 'rake'
+  s.add_development_dependency 'rubocop', '~> 1.41.1'
   s.add_development_dependency 'test-unit'
 
   if s.respond_to? :specification_version then
