@@ -19,7 +19,7 @@ GEM
     rake (13.0.6)
     rdoc (4.3.0)
     regexp_parser (2.6.1)
-    rexml (3.2.5)
+    rexml (3.4.2)
     rubocop (1.41.1)
       json (~> 2.3)
       parallel (~> 1.10)
