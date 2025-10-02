@@ -17,7 +17,7 @@ GEM
     power_assert (2.0.3)
     rainbow (3.1.1)
     rake (13.0.6)
-    rdoc (4.3.0)
+    rdoc (6.1.2.1)
     regexp_parser (2.6.1)
     rexml (3.2.5)
     rubocop (1.41.1)
@@ -45,7 +45,7 @@ DEPENDENCIES
   hoe (~> 3.13)
   minitest
   rake
-  rdoc (~> 4.0)
+  rdoc (~> 6.1)
   rkelly-remix!
   rubocop (~> 1.41.1)
   test-unit
